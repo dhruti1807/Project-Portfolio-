@@ -1,0 +1,34 @@
+# 👓 Smart Glasses for the Visually Challenged
+
+
+The Smart Glasses for Visually Challenged is an assistive wearable device designed to empower visually impaired individuals 
+by enhancing their perception of the surrounding environment. This project integrates advanced technologies such as 
+real-time object detection, optical character recognition (OCR), and audio feedback to provide continuous environmental 
+awareness and improve mobility and independence
+---
+
+## 🚀 Features
+
+- 🔍 **Real-time Object Detection** using YOLOv5
+- 📖 **Text Recognition** with Tesseract OCR
+- 🗣️ **Environment Description** using NLP & gTTS (Text to Speech)
+- 🎥 **Raspberry Pi 4** integration for on-the-go computing
+- 🎧 Audio Output through earphones for real-time feedback
+
+---
+
+## 🛠️ Tech Stack
+
+- Python, OpenCV, YOLOv5
+- Tesseract OCR, gTTS
+- Raspberry Pi, NLP
+- LangChain (for description generation)
+- Hardware: Pi Camera, Buzzer, Smart Glass Frame
+
+
+
+
+## 👩‍💻 Author
+
+DhruTI1807  
+Final-year AI/ML Student passionate about impactful real-world AI applications.
